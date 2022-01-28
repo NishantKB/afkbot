@@ -1,0 +1,12 @@
+{
+ "ip": "ult7.falix.gg",
+ "port": "28845",
+ "name": "AnitD",
+ "auto-night-skip": "false",
+ "loginmsg": "/discord help",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+ "login-cmd": "/login (type_ur_pass_here)",
+ "auto-reconnect": "true"
+}
